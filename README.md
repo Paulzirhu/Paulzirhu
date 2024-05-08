@@ -1,0 +1,7 @@
+-  Hi, I’m [@Paulzirhu](https://github.com/Paulzirhu)
+-  I’m interested in ... machine learning, artificial intelligence, software development
+-  I’m currently learning ... a new programming language, a specific framework
+- ️ I’m looking to collaborate on ... open-source projects, research papers
+-  How to reach me ... Paulzirhu@gmail.com
+-  Pronouns: ... he/him
+- ⚡ Fun fact: ... I am a singer song writer and a digital content creator 
